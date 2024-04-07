@@ -33,4 +33,4 @@ Once the extension is installed and pinned, follow these steps to use it:
 
 Check out the video below for a quick demonstration of the YouTube Bookmarker Chrome Extension:
 
-[![YouTube Bookmarker Chrome Extension Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<a href="https://drive.google.com/file/d/1LqnXXUT_3hwxgW5c484hJsNk6TsLX9-y/view?usp=sharing" target="_blank"><b>YouTube Bookmarker Chrome Extension</b></a>.
