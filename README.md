@@ -2,6 +2,12 @@
 
 📌 This is a Chrome extension that allows users to bookmark specific timestamps while watching YouTube videos. The extension enhances the YouTube experience by providing a simple way to mark important moments in videos for future reference.
 
+## 🎥 Video Demonstration
+
+Check out the video below for a quick demonstration of the YouTube Bookmarker Chrome Extension:
+
+<a href="https://drive.google.com/file/d/1LqnXXUT_3hwxgW5c484hJsNk6TsLX9-y/view?usp=sharing" target="_blank"><b>YouTube Bookmarker Chrome Extension</b></a>.
+
 ## Features
 
 - **Bookmarking**: Users can easily bookmark the current timestamp of a YouTube video by clicking on the bookmark button added by the extension.
@@ -29,8 +35,3 @@ Once the extension is installed and pinned, follow these steps to use it:
 3. To access bookmarks, click on the pinned extension icon in the Chrome toolbar.
 4. From the pinned extension popup, users can view all bookmarks, play them to navigate to the respective timestamps, and delete unwanted bookmarks.
 
-## 🎥 Video Demonstration
-
-Check out the video below for a quick demonstration of the YouTube Bookmarker Chrome Extension:
-
-<a href="https://drive.google.com/file/d/1LqnXXUT_3hwxgW5c484hJsNk6TsLX9-y/view?usp=sharing" target="_blank"><b>YouTube Bookmarker Chrome Extension</b></a>.
